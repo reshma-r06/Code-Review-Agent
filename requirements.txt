@@ -1,0 +1,13 @@
+langchain
+langchain-groq
+langchain-community
+langgraph
+chromadb
+sentence-transformers
+PyGithub
+fastapi
+uvicorn
+streamlit
+python-dotenv
+pydantic
+requests

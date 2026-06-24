@@ -1,0 +1,15 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+.env
+
+# Environment variables (Crucial for security!)
+.env
+
+# Python caching
+__pycache__/
+*.pyc
+
+# Local data (ChromaDB vectors or logs)
+*.log
